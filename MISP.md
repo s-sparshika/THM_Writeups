@@ -23,6 +23,34 @@ Information Sharing - Public, NIDS , SIEM
 - API support
 
   ## Task-3
-  - Dashboard:
+- Dashboard:
     Provides functionalities to track, share and correlate events and IOCs identified during your investigation.
-- Dash
+    ![image](https://github.com/s-sparshika/THM_Writeups/assets/68326118/6233c78b-3738-4c55-a2c4-8193886b50a7)
+- Home button
+- Event Actions
+- Event Actions
+- Dashboards
+- Galaxies
+- Input Filters
+- Global Actions
+- MISP
+- Name
+- Envelope
+- Log out
+  
+- Event Management:
+    As an analyst, will create all malware investigation correlations by providing descriptions and attributes associated with the investigation. Splitting the process into three significant phases, we have: 
+- Event Creation.
+- Populating events with attributes and attachments.
+- Publishing.
+
+- Event Creation:
+     Events are a storage of general information about an incident or investigation. We add the description, time, and risk level deemed appropriate for the incident by clicking the Add Event button. Additionally, we specify the distribution level we would like our event to have on the MISP network and community. According to MISP, the following distribution options are available:
+  - Your organization only
+  - This community-only
+  - Connected Communities
+  - All Communities
+
+- Attributes & Attachments:
+      
+  
