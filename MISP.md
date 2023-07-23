@@ -89,5 +89,26 @@ Value: Numerical or text details to map the property.
 - Permissible Actions Protocol: An advanced classification that indicates how the data can be used to search for compromises within the organisation.
 
 ## TASK 5
-- What event ID has been assigned to the PupyRAT event?
+### What event ID has been assigned to the PupyRAT event?
+
+      1146
+
+### The event is associated with the adversary gaining ______ into organisations.
+
+      Remote Access
+
+### What IP address has been mapped as the PupyRAT C2 Server
+
+      89.107.62.39
+
+![image](https://github.com/tousif13/TryHackMe_Writeups/assets/33444140/576415cd-a258-45a1-a93b-58e47af33512)
+
+### From the Intrusion Set Galaxy, what attack group is known to use this form of attack?
+
+      Magic Hound
+
+### There is a taxonomy tag set with a Certainty level of 50. Which one is it?
+
+      OSINT
+
   
