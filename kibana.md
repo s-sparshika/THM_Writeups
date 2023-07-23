@@ -1,5 +1,5 @@
 
-# kiba
+# kibana
 
 If we try to access kibana through browser by IP address, we won't get direct access. It will display this page :
 
